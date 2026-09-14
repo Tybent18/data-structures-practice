@@ -48,6 +48,13 @@ gcc -Wall -Wextra -pedantic linked_list.c -o linked_list
 - compare iterative and recursive solutions;
 - practice translating an algorithm between languages.
 
+## Technical report
+
+- [Read: Comparative Data Structures and Algorithms](docs/comparative-data-structures-and-algorithms.md)
+- [Download the publication PDF](docs/comparative-data-structures-and-algorithms.pdf)
+
+The report maps claims to repository artifacts, defines an evidence-maturity model, documents limitations, and provides a reproducible development roadmap.
+
 ## Foundation portfolio
 
 This repository is part of a five-repository learning path:
